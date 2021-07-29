@@ -1,0 +1,7 @@
+name: BERANK
+version: ${project.version}
+main: me.xingyan.berank.Main
+api-version: 1.13
+commands:
+  berank:
+    usage: /berank <beplayer> <rank>
